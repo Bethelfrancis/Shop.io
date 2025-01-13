@@ -585,5 +585,14 @@
       "id": "020d"
     }
   ],
-  "order": []
+  "order": [
+    {
+      "id": "3",
+      "name": "Men's Black Jean",
+      "image": "/assets/Black-gean.png",
+      "price": 49.99,
+      "size": "Medium",
+      "quantity": 1
+    }
+  ]
 }

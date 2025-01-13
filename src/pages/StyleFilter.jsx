@@ -59,18 +59,22 @@ const StyleFilter = () => {
                 <SideBar isVisible={isVisible} toggleVisible={toggleVisible} />
 
                 {isPending && (
-                    <div className="relative top-52 left-96 lg:top-5 lg:left-[450px]">
+                    <div className="flex items-center justify-center w-full">
                         <div className="border-t-4 border-blue-500 rounded-full w-16 h-16 animate-spin"></div>
                     </div>
                 )}
 
                 {error && (
-                    <div className="relative top-52 left-96 lg:top-5 lg:left-[370px]">
+                    <div className="flex items-center justify-center w-full">
                         <p className="text-2xl font-semibold text-red-500 text-center">{error}</p>
                     </div>
                 )}
 
-                <div className="w-full pt-7">
+                <div className={`pt-7 ${
+                    currentProducts.length > 0
+                        ? 'w-full'
+                        : 'w-0'
+                }`}>
 
                     {currentProducts.length > 0 && (
                         <div className="flex justify-between items-center">
