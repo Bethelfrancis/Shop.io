@@ -1,0 +1,589 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "T-shirt with Tape Details",
+      "desc": "This graphic T-shirt is perfect for any occasion, whether you're dressing up for a casual outing or lounging at home. It features stylish tape details that enhance its unique design. Crafted from a soft and breathable cotton fabric, this T-shirt offers superior comfort, allowing you to stay cool and confident throughout the day. With its versatile look, it pairs well with jeans, shorts, or any casual bottom.",
+      "price": 29.99,
+      "image": "/assets/Blue-polo.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "2",
+      "name": "Orange Striped T-shirt",
+      "desc": "Brighten up your wardrobe with this vibrant orange-striped T-shirt designed specifically for women. The breathable fabric is thoughtfully selected to provide maximum comfort for all-day wear. With its playful stripes and flattering cut, this T-shirt is ideal for casual outings or a relaxed day out with friends. Pair it with shorts or jeans for a trendy summer look.",
+      "price": 34.99,
+      "image": "/assets/Stripe-orange.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "3",
+      "name": "Men's Black Jean",
+      "desc": "Make a statement at your next event with these stylish black jeans, expertly designed for men who appreciate both comfort and fashion. The premium materials used in crafting these jeans ensure a sleek and tailored fit, making them perfect for both formal and casual occasions. With a versatile design, they can be paired with a variety of tops, from casual T-shirts to dress shirts, ensuring you always look your best.",
+      "price": 49.99,
+      "image": "/assets/Black-gean.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "party"
+    },
+    {
+      "id": "4",
+      "name": "Men's Black T-Shirt",
+      "desc": "This durable black polo shirt is designed for men who need functionality during their gym sessions, as well as style for everyday wear. Featuring moisture-wicking fabric, it keeps you cool and dry no matter how intense your workout. The classic black color makes it a versatile addition to your wardrobe, suitable for both gym activities and casual outings.",
+      "price": 24.99,
+      "image": "/assets/Black-polo.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "gym"
+    },
+    {
+      "id": "5",
+      "name": "Striped Shirt",
+      "desc": "A modern twist on a classic, this striped shirt is perfect for formal occasions. Crafted from breathable material, it features refined stripes that exude sophistication while ensuring comfort. It makes for a versatile wardrobe essential, easily pairing with dress pants for work events or smart-casual trousers for evenings out. Elevate your style effortlessly.",
+      "price": 39.99,
+      "image": "/assets/Stripe-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "formal"
+    },
+    {
+      "id": "6",
+      "name": "Orange T-shirt",
+      "desc": "This lively orange polo T-shirt combines style and comfort effortlessly, making it a must-have for any casual wardrobe. Made from soft cotton, it ensures a relaxing fit while adding a pop of color to your outfit. Pair it with denim shorts for a casual weekend look or layer it under a jacket for an evening out.",
+      "price": 25.99,
+      "image": "/assets/orange-polo.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "7",
+      "name": "Pink T-shirt",
+      "desc": "This stylish pink polo T-shirt is designed for the modern man who wants to make a statement while staying comfortable. Crafted from high-quality materials, it offers a soft feel against the skin and a fit that flatters. Ideal for various casual occasions, this T-shirt can be easily paired with jeans or shorts, making it a versatile addition to your wardrobe.",
+      "price": 19.99,
+      "image": "/assets/Pink-polo.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "8",
+      "name": "Green Casual Shirt",
+      "desc": "This bright green shirt for kids is perfect for active play and casual outings. Designed from lightweight, breathable fabric, it keeps little ones comfortable while they explore the world. It's not just practical but also stylish, ensuring that your child stands out during playdates or school activities.",
+      "price": 22.99,
+      "image": "/assets/green-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "kids",
+      "type": "casual"
+    },
+    {
+      "id": "9",
+      "name": "Multicolor Casual Shirt",
+      "desc": "A vividly patterned multicolor shirt designed for women who cherish comfort and style. This shirt is ideal for casual outings, made from soft, breathable fabric that feels great against the skin. With its eye-catching design, this shirt transitions effortlessly from day to night, making it a versatile staple in your wardrobe.",
+      "price": 34.99,
+      "image": "/assets/colored-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "10",
+      "name": "Black Gym Top",
+      "desc": "Stay stylish while working out with this chic black gym top for women. It features lightweight, moisture-wicking material that helps keep you dry during intense exercises. Its sleek design also makes it suitable for casual wear, allowing you to transition from the gym to social activities without missing a beat.",
+      "price": 29.99,
+      "image": "/assets/black-gymtop.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "gym"
+    },
+    {
+      "id": "11",
+      "name": "Blue Jean",
+      "desc": "This blue jean T-shirt for women is perfect for everyday wear. It features a unique design and breathable material that combines comfort with a fashionable look. Whether you're running errands or meeting friends, this versatile shirt fits the bill, making it a delightful addition to any casual outfit.",
+      "price": 24.99,
+      "image": "/assets/Blue-jean.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "12",
+      "name": "White Striped T-Shirt",
+      "desc": "This white striped T-shirt is perfect for men seeking comfort combined with style. It is made from breathable materials that make for comfortable all-day wear, whether you're at home or out and about. The classic striped design adds just the right touch of sophistication to any casual outfit, making it a must-have in your collection.",
+      "price": 19.99,
+      "image": "/assets/Stripe-white.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "13",
+      "name": "Blue Jean Trousers",
+      "desc": "Stylish and versatile, these blue jean trousers are designed for women who want to look fashionable while staying comfortable. The breathable fabric makes them suitable for any casual outing or day-to-day wear. Whether paired with a simple top or a formal blouse, these trousers provide a stunning silhouette that flatters.",
+      "price": 54.99,
+      "image": "/assets/wo-black.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "14",
+      "name": "Winter Thigh Black Hoodie",
+      "desc": "Stay warm and stylish this winter with our thigh-length black hoodie, designed for men who appreciate versatility and style. Crafted from premium materials, this hoodie not only looks great but also ensures that you stay comfortably warm on colder days. It pairs effortlessly with jeans or joggers, making it the perfect choice for both casual outings and cozy nights in.",
+      "price": 49.99,
+      "image": "/assets/winter-hoodie.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "15",
+      "name": "White T-Shirt",
+      "desc": "This classic white T-shirt for women is ideal for gym sessions or laid-back weekends. Made with moisture-wicking fabric, it provides exceptional comfort and breathability during workouts. Its timeless design makes it easy to pair with nearly anything, creating fresh looks for various casual occasions.",
+      "price": 19.99,
+      "image": "/assets/white-tshirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "16",
+      "name": "White Gym Short",
+      "desc": "Made for comfort and style, these white gym shorts are suitable for workouts as well as casual outings. The breathable fabric provides comfort during exercise, while their versatile design ensures you can wear them to run errands or just relax at home.",
+      "price": 29.99,
+      "image": "/assets/white-short.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "gym"
+    },
+    {
+      "id": "17",
+      "name": "White Office Shirt",
+      "desc": "This sophisticated white office shirt is designed for women who want to blend professionalism with style. It offers a flattering fit and is made from high-quality fabric that breathes well and feels great against the skin. Perfect for a day at the office or a business meeting for maximum impact.",
+      "price": 39.99,
+      "image": "/assets/white-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "party"
+    },
+    {
+      "id": "18",
+      "name": "Milk Color Hoodie",
+      "desc": "Make a statement with this stylish milk-colored hoodie designed for women. Offering a bold look, it is perfect for any casual occasion. This hoodie is crafted from soft, breathable fabric, ensuring comfort while being fashionable enough to catch eyes wherever you go.",
+      "price": 34.99,
+      "image": "/assets/white-hoddie.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "19",
+      "name": "Light Gym Top",
+      "desc": "This lightweight green gym top is crafted especially for kids, making it ideal for casual outings and playtime. Its breathable fabric keeps them cool and comfortable, while the fun design adds a dash of color to their wardrobe. An excellent choice for school, sports, or any active day.",
+      "price": 24.99,
+      "image": "/assets/top.png",
+      "rating": "/assets/five-star.png",
+      "gender": "kids",
+      "type": "gym"
+    },
+    {
+      "id": "20",
+      "name": "Thigh Colored Shirt",
+      "desc": "This thigh-length colored shirt for men is perfect for casual outings. With a vibrant design crafted from soft and breathable fabric, it ensures maximum comfort and style throughout the day. Pair it with leggings or jeans for a chic and trendy look that is sure to turn heads.",
+      "price": 29.99,
+      "image": "/assets/stripe-shit.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "21",
+      "name": "Blue Jean Shorts",
+      "desc": "These stylish blue jean shorts for women are designed for warm days and casual outings. With a comfortable fit and durable material, they are perfect for beach trips or summer strolls. Easily pair them with any top for a fresh, relaxed look that is both functional and fashionable.",
+      "price": 27.99,
+      "image": "/assets/shorts-jeans.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "22",
+      "name": "Black Men Short",
+      "desc": "These versatile black shorts are perfect for men seeking comfort and style. Designed for casual wear or workouts, they feature lightweight and breathable materials. Pair them with a t-shirt for a casual day out or wear them for sporty activities.",
+      "price": 24.99,
+      "image": "/assets/short.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "gym"
+    },
+    {
+      "id": "23",
+      "name": "Red T-Shirt",
+      "desc": "This striking red T-shirt for women combines fashion with ease. Made from lightweight and breathable fabric, it’s perfect for everyday casual wear. Dress it up with a statement necklace or dress it down with jeans for a more relaxed vibe; this shirt is a must-have in any wardrobe.",
+      "price": 19.99,
+      "image": "/assets/red-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "24",
+      "name": "Purple Shirt",
+      "desc": "This vibrant purple shirt is designed specifically for women who want to stand out. Made from breathable fabric, it's perfect for casual outings or relaxed gatherings. The comfortable fit combined with a chic design ensures that you not only feel great but also look stunning.",
+      "price": 34.99,
+      "image": "/assets/purple-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "formal"
+    },
+    {
+      "id": "25",
+      "name": "Pink T-Shirt",
+      "desc": "This eye-catching pink T-shirt for women is perfect for party events or casual days. It features a stylish design with premium fabrics to guarantee comfort during events. Pair it with your favorite jeans or a nice skirt for a chic and trendy outfit.",
+      "price": 29.99,
+      "image": "/assets/pink-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "formal"
+    },
+    {
+      "id": "26",
+      "name": "Light Pink Hoodie",
+      "desc": "This classic light pink hoodie for women is ideal for a cozy day out or lounging at home. It's made of comfortable, moisture-wicking fabric, ensuring you stay warm and stylish throughout the day. It's easy to layer, making it a versatile piece to have in your wardrobe.",
+      "price": 39.99,
+      "image": "/assets/pink-hoodie.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "27",
+      "name": "Blue Elegant Jean",
+      "desc": "These elegant blue jeans for women combine timeless style with comfort for any occasion. Made from breathable material, they allow freedom of movement while maintaining a sophisticated appearance. Pair them with a blouse for a polished look or a casual top for weekend outings.",
+      "price": 49.99,
+      "image": "/assets/party-jean.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "28",
+      "name": "Palazo Jean",
+      "desc": "This stylish palazzo-style jean for women combines fashion and ease. The soft fabric provides ultimate comfort while maintaining a chic look, making them perfect for both casual wear and dressy outings. They pair effortlessly with a fitted top for a stunning silhouette.",
+      "price": 34.99,
+      "image": "/assets/palazo.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "formal"
+    },
+    {
+      "id": "29",
+      "name": "Orange T-Shirt",
+      "desc": "This fun and fashionable orange T-shirt for women is a perfect addition to your casual collection. The soft fabric ensures comfort while the vibrant color adds a lively touch to your outfits. Easily match it with shorts or skirts for a colorful and stylish outfit.",
+      "price": 19.99,
+      "image": "/assets/orange-tshirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "30",
+      "name": "Milk Color Hoodie",
+      "desc": "This soft milk-colored hoodie is designed for kids seeking comfort and style. Perfect for chilly days, it is made from lightweight fabric to keep them warm and cozy while still looking trendy. Pair it with jeans or joggers for a relaxed, casual look that's great for school or play.",
+      "price": 34.99,
+      "image": "/assets/milk-hoodie.png",
+      "rating": "/assets/five-star.png",
+      "gender": "kids",
+      "type": "formal"
+    },
+    {
+      "id": "31",
+      "name": "Black Hoodie",
+      "desc": "Stay stylish and warm with this vibrant black hoodie, perfect for both men and casual outings. Crafted from soft fabric, it offers a comfortable fit that allows for easy layering. Whether you're hitting the gym or running errands, this hoodie blends fashion and function effortlessly.",
+      "price": 39.99,
+      "image": "/assets/men-hoodie.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "32",
+      "name": "Women Short",
+      "desc": "These stylish women's shorts are the perfect addition for summer outings. Made from high-quality materials, they provide a comfortable fit that adapts to movement, ideal for casual wear or weekend adventures. Dress them up with a blouse or down with a casual tee for any occasion.",
+      "price": 29.99,
+      "image": "/assets/light-blue-short.png",
+      "rating": "/assets/three-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "33",
+      "name": "Light Blue Jean",
+      "desc": "This light blue jean is perfect for women who want a relaxed yet stylish look. It's designed for both comfort and style, making it suitable for daily wear or weekend outings. Pair it with your favorite top and shoes for a seamless combination of elegance and comfort.",
+      "price": 49.99,
+      "image": "/assets/light-blue.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "formal"
+    },
+    {
+      "id": "34",
+      "name": "Light Blue Palazo",
+      "desc": "These light blue palazo pants are the epitome of comfort and style. Designed for women, they make a fashionable statement while also offering maximum comfort due to their breathable material. Pair them with fitted tops for a chic look that is perfect for any casual or social event.",
+      "price": 34.99,
+      "image": "/assets/jean-blue.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "35",
+      "name": "Blue Short",
+      "desc": "These trendy blue shorts are perfect for warm summer days. Created from breathable fabric, they ensure all-day comfort, allowing you to enjoy everything from picnics to beach outings. Dress them up with a stylish top or keep it casual with a simple tee. They’re versatile enough to fit any summer occasion.",
+      "price": 24.99,
+      "image": "/assets/isolated-short.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "36",
+      "name": "Gym Top Women",
+      "desc": "This sleek black gym top designed for women combines style with functionality. Made from moisture-wicking fabric, it helps keep you cool and dry while you work out, ensuring you look good while breaking a sweat. Perfect for the gym, yoga, or any fitness activity, this top is a great addition to your workout essentials.",
+      "price": 29.99,
+      "image": "/assets/gym-top.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "gym"
+    },
+    {
+      "id": "37",
+      "name": "Gym Top",
+      "desc": "This comfortable gym top for men is made for those who want to look good while staying active. Crafted from high-quality moisture-wicking fabric, it ensures your skin stays dry during workouts. The classic design is versatile enough for both workouts and casual wear.",
+      "price": 25.99,
+      "image": "/assets/gym-red.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "gym"
+    },
+    {
+      "id": "38",
+      "name": "Grey Office Shirt",
+      "desc": "This sophisticated grey office shirt is designed for women who want to make a solid impression at work. It features a classic design with a modern twist, made from breathable, soft fabric that feels great on the skin. Pair it with tailored pants or a skirt for a polished professional look.",
+      "price": 39.99,
+      "image": "/assets/grey-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "office"
+    },
+    {
+      "id": "39",
+      "name": "Gray Winter Hoodie",
+      "desc": "This cozy gray hoodie is perfect for men looking to stay warm during the colder months. Made from premium materials, this hoodie provides insulation and comfort without compromising on style. Its versatile design makes it ideal for both everyday casual wear and outdoor activities.",
+      "price": 49.99,
+      "image": "/assets/grey-hoodie.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "40",
+      "name": "Light Round Neck Top",
+      "desc": "This round neck top in a soft light color is perfect for layering or wearing alone during casual outings. The comfortable fit and stylish design make it suitable for a variety of occasions, from a casual lunch to a night out. It pairs beautifully with jeans for a chic look.",
+      "price": 19.99,
+      "image": "/assets/gren-top.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "41",
+      "name": "Green Short",
+      "desc": "These bright green shorts for kids are crafted for active play while providing comfort. Made with lightweight materials, they are perfect for warm days at the park or beach. Easy to pair with t-shirts or tank tops, they are a fun addition to any child's wardrobe.",
+      "price": 22.99,
+      "image": "/assets/green-short.png",
+      "rating": "/assets/five-star.png",
+      "gender": "kids",
+      "type": "casual"
+    },
+    {
+      "id": "42",
+      "name": "Green Hoodie",
+      "desc": "This vibrant green hoodie designed for women is perfect for layering during chilly days. Made from soft, breathable fabric, it offers both comfort and style. Ideal for casual outings or as a cozy layer during workouts, this hoodie complements any wardrobe beautifully.",
+      "price": 34.99,
+      "image": "/assets/green-hoodie.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "43",
+      "name": "Black Hoodie",
+      "desc": "This versatile black hoodie is perfect for men who appreciate style and comfort. Lightweight yet warm, this hoodie is ideal for outdoor activities or lounging at home. Its classic design makes it easy to match with any outfit, ensuring you look great wherever you go.",
+      "price": 29.99,
+      "image": "/assets/formal-hoodie.png",
+      "rating": "/assets/three-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "44",
+      "name": "Blue Shirt",
+      "desc": "This stylish blue shirt is designed for women who want a relaxed yet fashionable look. Its unique design along with breathable materials make it both comfortable and versatile for daily wear or evening outings. Dress it up with accessories or keep it simple for a casual day out.",
+      "price": 29.99,
+      "image": "/assets/dark-blue-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "formal"
+    },
+    {
+      "id": "45",
+      "name": "Crazy Jean",
+      "desc": "These trendy crazy jeans for men combine style with comfort, perfect for casual outings or weekend activities. Made from lightweight material and featuring a unique design, they provide both flair and functionality. Dress them up with a button-down or keep it casual with a tee.",
+      "price": 44.99,
+      "image": "/assets/crazy-jean.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "46",
+      "name": "Men Winter Hoodie",
+      "desc": "Stay warm and stylish with this winter hoodie designed for men. Made from durable fabric, it features a cozy design that provides insulation against cold weather while ensuring a relaxed fit for everyday wear. Perfect for casual outings or outdoor adventures.",
+      "price": 49.99,
+      "image": "/assets/colored-hoodie.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "47",
+      "name": "Women Hoodie",
+      "desc": "This cozy hoodie designed for women is perfect for casual wear or lounging at home. Made from soft material, it provides warmth and comfort, ensuring that you feel great while still looking stylish. Perfect for layering during cooler days.",
+      "price": 29.99,
+      "image": "/assets/brown-hoodie.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "party"
+    },
+    {
+      "id": "48",
+      "name": "Fitted Men Jean",
+      "desc": "These fitted jeans are perfect for men who appreciate a tailored look without sacrificing comfort. Designed to hug your body while allowing movement, they're great for both casual outings and more polished occasions. Pair them with a t-shirt or a dress shirt for the perfect ensemble.",
+      "price": 49.99,
+      "image": "/assets/blu-jean.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "casual"
+    },
+    {
+      "id": "49",
+      "name": "Blue Jacket",
+      "desc": "This stylish blue jacket for women adds a layer of warmth and flair to any outfit. Made from high-quality materials, it is perfect for colder days and transitional seasons. Wear it over your favorite tops for a chic look that ensures you stay comfortable and fashionable.",
+      "price": 59.99,
+      "image": "/assets/blue-shrt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "party"
+    },
+    {
+      "id": "50",
+      "name": "Light Blue Shirt",
+      "desc": "This light blue shirt is designed for women who desire comfort with a touch of elegance. Perfect for both work and casual outings, it features breathable material and a relaxed fit. Style it with skirts or tailored pants for a polished finish, or wear it with jeans for a laid-back look.",
+      "price": 34.99,
+      "image": "/assets/blue-shirt.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "party"
+    },
+    {
+      "id": "51",
+      "name": "Black Office Shirt",
+      "desc": "This striking black office shirt is designed for men seeking a formal yet stylish look. Made from premium quality fabric, it offers a sophisticated appearance while remaining comfortable enough for all-day wear at work. Pair it with dress pants or chinos for a truly professional ensemble.",
+      "price": 39.99,
+      "image": "/assets/blak-shit.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "party"
+    },
+    {
+      "id": "52",
+      "name": "Black Short",
+      "desc": "These black shorts are perfect for women looking to stay stylish and comfortable during warm days. Made from durable materials, they are great for casual wear or outings. Pair them with anyone of your favorite tops for a complete look, whether it's laid-back or chic.",
+      "price": 24.99,
+      "image": "/assets/black-short.png",
+      "rating": "/assets/five-star.png",
+      "gender": "women",
+      "type": "casual"
+    },
+    {
+      "id": "53",
+      "name": "Black Party Trouser",
+      "desc": "These striking black party trousers are designed for men who want to stand out while remaining sophisticated. Made from high-quality materials, they ensure both comfort and a tailored fit that flatters. Perfect for evening events or parties, these trousers will surely make you the center of attention.",
+      "price": 49.99,
+      "image": "/assets/black-jeans.png",
+      "rating": "/assets/five-star.png",
+      "gender": "men",
+      "type": "party"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "feedback": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.",
+      "rating": "/assets/five-star.png",
+      "id": "e8a5"
+    },
+    {
+      "name": "John D.",
+      "feedback": "Finding clothes that align with my style used to be challenging until I discovered Shop.co. The range of options they offer is truly remarkable, catering to various tastes and occasions.",
+      "rating": "/assets/five-star.png",
+      "id": "373a"
+    },
+    {
+      "name": "Emily R.",
+      "feedback": "As someone who's always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.",
+      "rating": "/assets/five-star.png",
+      "id": "95f4"
+    },
+    {
+      "name": "Michael L.",
+      "feedback": "Shop.co has become my go-to for stylish and affordable clothing. Whether I'm dressing up for a special occasion or just need something casual, they always have the perfect options.",
+      "rating": "/assets/five-star.png",
+      "id": "8ed3"
+    },
+    {
+      "name": "Lucas A.",
+      "feedback": "I love the shopping experience at Shop.co. The user interface is easy to use, and their sales and discounts are unbeatable.",
+      "rating": "/assets/five-star.png",
+      "id": "9997"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the return policy?",
+      "answer": "You can return the product within 30 days of purchase. Items must be in their original condition with all tags intact. Refunds are processed within 7-10 business days after the item is received and inspected.",
+      "id": "c175"
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship worldwide! Shipping times and costs vary by destination, but we aim to deliver within 7-14 business days. You can view more details on our shipping policy page.",
+      "id": "ee07"
+    },
+    {
+      "question": "How do I track my order?",
+      "answer": "After placing an order, you'll receive a tracking link via email. You can use this link to check the real-time status of your shipment. If you experience any issues, contact our support team for assistance.",
+      "id": "d37a"
+    },
+    {
+      "question": "Are there discounts for bulk purchases?",
+      "answer": "Yes, we offer discounts on bulk purchases for both individual customers and businesses. Contact our sales team for specific pricing and to discuss special requirements. Terms and conditions apply.",
+      "id": "020d"
+    }
+  ],
+  "order": []
+}
