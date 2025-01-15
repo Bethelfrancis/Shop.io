@@ -7,7 +7,7 @@ import Subscribe from "../component/Subscribe";
 import Footer from "../component/Footer";
 
 const AllProduct = () => {
-    const { data:products, isPending, error } = useFetch('http://localhost:5000/product')
+    const { data:products, isPending, error } = useFetch('https://shop-co-7oze.onrender.com/product')
 
     const [ currentPage, setCurrentPage ] = useState(1)
     const itemsPerPage = 8;

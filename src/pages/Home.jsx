@@ -9,7 +9,7 @@ import Subscribe from "../component/Subscribe";
 import useFetch from "../customHook/useFetch";
 
 const Home = () => {
-    const { data:product , isPending, error } = useFetch('http://localhost:5000/product')
+    const { data:product , isPending, error } = useFetch('https://shop-co-7oze.onrender.com/product')
 
     return (
         <div className="overflow-x-hidden">

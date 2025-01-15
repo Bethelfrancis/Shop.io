@@ -7,7 +7,7 @@ import ReviewsFAQs from '../component/ReviewsFaqs'
 
 const ProductDetails = () => {
     const { id } = useParams()
-    const { data:products, isPending, error } = useFetch(`http://localhost:5000/product/${id}`)
+    const { data:products, isPending, error } = useFetch(`https://shop-co-7oze.onrender.com/product/${id}`)
     const [ num, setNum ] = useState(1)
     const [ selectedSize, setSelectedSize ] = useState('')
     const [ isAdding, setIsAdding ] = useState(false)
@@ -49,7 +49,7 @@ const ProductDetails = () => {
                 quantity: num
             }
 
-            fetch('http://localhost:5000/order')
+            fetch('https://shop-co-7oze.onrender.com/order')
                 .then(res => {
                     if (!res.ok) {
                         throw Error('Failed to fetch Data. Or check Internet Connection')
@@ -68,7 +68,7 @@ const ProductDetails = () => {
                             size: cart.size
                         }
 
-                        fetch(`http://localhost:5000/order/${exitingCart[existingCartId].id}`, {
+                        fetch(`https://shop-co-7oze.onrender.com/order/${exitingCart[existingCartId].id}`, {
                             method: 'PUT',
                             headers: { 'Content-Type': 'application/json' },
                             body: JSON.stringify(updateCart)
@@ -85,7 +85,7 @@ const ProductDetails = () => {
                                 navigate('/cart')
                             })
                     }   else {
-                            fetch('http://localhost:5000/order', {
+                            fetch('https://shop-co-7oze.onrender.com/order', {
                                 method: 'POST',
                                 headers: { 'Content-Type': 'application/json' },
                                 body: JSON.stringify(cart)

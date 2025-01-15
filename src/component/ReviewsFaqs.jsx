@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 
 const ReviewsFaqs = () => {
     const [activeTab, setActiveTab] = useState("Reviews");
-    const { data:review, isPending, error } = useFetch('http://localhost:5000/reviews')
-    const { data:faq } = useFetch('http://localhost:5000/faq')
+    const { data:review, isPending, error } = useFetch('https://shop-co-7oze.onrender.com/reviews')
+    const { data:faq } = useFetch('https://shop-co-7oze.onrender.com/faq')
 
     return (
         <div className="px-8 lg:px-4">

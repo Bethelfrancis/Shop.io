@@ -10,7 +10,7 @@ import rightArrow from '../assets/right-arrow.png'
 
 const GenderFilter = () => {
     const { category } = useParams()
-    const { data:products, isPending, error } = useFetch('http://localhost:5000/product')
+    const { data:products, isPending, error } = useFetch('https://shop-co-7oze.onrender.com/product')
     const [isVisible, setIsVisible] = useState(false);
 
     const [ currentPage, setCurrentPage ] = useState(1)

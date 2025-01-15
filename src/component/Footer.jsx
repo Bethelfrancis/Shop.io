@@ -76,8 +76,8 @@ const Footer = () => {
             </div>
             <hr className='bg-text w-full h-[1.5px]'/>
             <div className='flex mt:flex-col justify-between items-center mt-2'>
-                <p className='para'>Shop.io &copy; 2000-2025. All Right Reserved</p>
-                <div className='flex'>
+                <p className='para text-center'>Shop.io &copy; 2000-2025. All Right Reserved</p>
+                <div className='flex flex-wrap justify-center'>
                     {org.map((img, index) => (
                         <img 
                             key={index}

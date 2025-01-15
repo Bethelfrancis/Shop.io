@@ -8,7 +8,7 @@ import useFetch from '../customHook/useFetch'
 
 const Cart = () => {
     const [ num,  ] = useState(1)
-    const { data:carts, isPending, error } = useFetch(`http://localhost:5000/order`)
+    const { data:carts, isPending, error } = useFetch(`https://shop-co-7oze.onrender.com/order`)
     const [ cartItems, setCartItems ] = useState([])
 
     useEffect(() => {
@@ -38,7 +38,7 @@ const Cart = () => {
     }
 
     const handleDeleteCart = (id) => {
-        fetch('http://localhost:5000/order/' + id, {
+        fetch('https://shop-co-7oze.onrender.com/order/' + id, {
             method: 'DELETE',
         })
         .then(res => {

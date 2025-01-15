@@ -21,14 +21,14 @@ const CreateReview = () => {
         const review = { name, feedback, rating }
         setIsPending(true)
 
-        fetch('http://localhost:5000/reviews', {
+        fetch('https://shop-co-7oze.onrender.com/reviews', {
             method: 'POST',
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(review)
         })
         .then(() => {
             setIsPending(false)
-            navigate('/')
+            navigate(-1)
         })
     }
 
@@ -58,7 +58,7 @@ const CreateReview = () => {
                     </div>
                     <button 
                         type="submit" 
-                        className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition duration-300"
+                        className="bg-black text-white px-4 py-2 rounded hover:bg-text transition duration-500"
                     >
                         { !isPending ? 'Add Review' : 'Adding Review...' }
                     </button>
